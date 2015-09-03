@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Robo Dino Apocalypse</string>
+    <string name="results_format">Shots fired: %1$d\nKills: %2$d\nRemaining: %3$d\nScore: %4$d\nTotal time: %5$.1f</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="win">You win!</string>
+    <string name="lose">Game Over!</string>
+    <string name="time_remaining_format">Time remaining: %.1f seconds</string>
+    <string name="stage_1">Stage 1</string>
+    <string name="stage_2">Stage 2</string>
+    <string name="stage_3">Stage 3</string>
+    <string name="high_scores">High Scores</string>
+    <string name="about">About</string>
+    <string name="done">Done</string>
+
+</resources>

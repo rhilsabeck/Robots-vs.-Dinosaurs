@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="stage_1" type="id">Stage 1</item>
+    <item name="stage_2" type="id">Stage 2</item>
+    <item name="stage_3" type="id">Stage 3</item>
+    <item name="high_scores" type="id">High Scores</item>
+    <item name="about" type="id">About</item>
+</resources>

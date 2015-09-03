@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/stage_1" android:title="@string/stage_1"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/stage_2" android:title="@string/stage_2"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/stage_3" android:title="@string/stage_3"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/high_scores" android:title="@string/high_scores"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/about" android:title="@string/about"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
